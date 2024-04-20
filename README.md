@@ -17,6 +17,8 @@
  
  🌱 DevOps
 
+ 🎉😃 Fun fact 🤔: I love volleyball🏐, swimming🏊‍♂️, sketching🎨, and traveling✈️!
+
  </div>
  
 <div align="center"> 
