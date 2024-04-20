@@ -2,9 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yashu+Tiwari!;" />
 
 </h1>
-<img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
-
-<br/>
+<img align="right" src="https://octodex.github.com/images/welcometocat.png" width="400">
 
 <h3 align="center"><p>I'm a passionate software developer driven by creating innovative solutions with technology. I possess a strong foundation in microservices, full-stack web development, and engineering principles.</p>
 
