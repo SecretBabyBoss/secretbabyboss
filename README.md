@@ -4,7 +4,7 @@
 </h1>
 <img align="right" src="https://octodex.github.com/images/welcometocat.png" width="380">
 
-<h3 align="center"><p>I'm a passionate software developer driven by creating innovative solutions with technology. I possess a strong foundation in microservices, full-stack web development, and engineering principles.</p>
+<h3 align="center"><p>I'm a passionate software developer driven by creating innovative solutions with technology. I possess a strong foundation in full-stack web development, and computer science principles.</p>
 
 <p>I'm proficient in streamlining development lifecycles through CI/CD practices. I leverage tools like Git, Docker, and Jenkins alongside my expertise in Linux administration and command line. This allows me to automate build and deployment processes, ensuring high-quality software is delivered efficiently.</p>
 
